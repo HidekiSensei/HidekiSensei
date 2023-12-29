@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HidekiSensei
+- 👋 Hi, I’m @SimonHideki
 - 👀 I’m interested in Coding and Weeb shit
 - 🌱 I’m currently learning depth of PHP and Python
-- 📫 How to reach me nobington.lp@gmail.com
+- 📫 How to reach me simon.kks@web.de
 
 <!---
 HidekiSensei/HidekiSensei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
